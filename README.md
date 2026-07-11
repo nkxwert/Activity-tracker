@@ -1,6 +1,7 @@
 # Activity Tracker
 
 Windows용 활동 기록기. 활성 창(프로그램)을 자동으로 감지해 사용 시간을 기록합니다.
+customtkinter 기반의 모던 UI (원형 녹화 버튼, 요약/타임라인 탭, 다크모드 자동 대응).
 
 ## exe 받는 법 (파이썬 설치 불필요)
 1. 이 저장소를 GitHub에 올리고 `main` 브랜치에 push
